@@ -1,0 +1,238 @@
+    1  Is -lrh
+    2  Is
+    3  username
+    4  $ ssh root@LAPTOP-LFDI3HO0
+    5  sudo
+    6  sudo apt-get update
+    7  sudo apt-get install openssh-server
+    8  sudo ufw allow 22
+    9  ssh root@LAPTOP-LFDI3HO0
+   10  sudo adduser TakalaniM
+   11  sudo adduser takalanim
+   12  sudo userdel takalanim
+   13  sudo adduser takalanim
+   14  Is
+   15  apt-get update
+   16  sudo apt-get update --fix-missing
+   17  Is
+   18  Is -lrh
+   19  (Is)
+   20  is
+   21  is
+   22  bash
+   23  cd
+   24  -bash:
+   25  .bash_profile
+   26  apt-fast --version
+   27  ls
+   28  ls /data
+   29  ls /etc/perl
+   30  ls /
+   31  pwd
+   32  mkdir Learning_unix
+   33  ls
+   34  cd Learning_unix
+   35  mkdir OuterDirectory
+   36  cd OuterDirectory
+   37  mkdir InnerDirectory
+   38  cd InnerDirectory
+   39  ls
+   40  ls/
+   41  ls /
+   42  cd root
+   43  cd/
+   44  cd /
+   45  ls 
+   46  ls /
+   47  ls
+   48  pwd
+   49  cd ..
+   50  pwd
+   51  cd Learning_unix
+   52  cd Learning_unix/
+   53  cd Learning_unix 
+   54  cd Learning_unix /
+   55  cd Learning_unix/
+   56  cd ../..
+   57  pwd
+   58  cd /
+   59  pwd
+   60  cd ~
+   61  pwd
+   62  cd
+   63  pwd
+   64  cd Learning_unix
+   65  ls ../../
+   66  ls ../
+   67  ls
+   68  pwd
+   69  / ls
+   70  ls -l
+   71  ls -R
+   72  ls -l -t -r
+   73  ls -lh
+   74  man ls
+   75  man -R
+   76  man --R
+   77  man cd
+   78  man man
+   79  rmdir InnerDirectory
+   80  pwd
+   81  cd OuterDirectory
+   82  cd InnerDirectory
+   83  cd OuterDirectory
+   84  cd ~
+   85  cd ~/Learning_unix
+   86  cd OuterDirectory
+   87  rmdir InnerDirectory
+   88  cd ~/Learning_unix
+   89  rmdir OuterDirectory
+   90  cd ~
+   91  rmdir Learning_unix
+   92  ls
+   93  mkdir Maapola
+   94  cd Maapola/
+   95  cd ~
+   96  rmdir Maapola/
+   97  ls
+   98  apt-get upgrade
+   99  ls
+  100  git branch
+  101  ls -a
+  102  git status
+  103  git log
+  104  cd git-basic-exercises
+  105  git status
+  106  git branch
+  107  git checkout master
+  108  ls
+  109  git log
+  110  git checkout milkshake-flavours 
+  111  ls
+  112  git log
+  113  git checkout a50cc7cee4369d24b81579f41ec820e9f4f4940d
+  114  cat README.md
+  115  git checkout master
+  116  git merge milkshake-flavours
+  117  ls
+  118  git log
+  119  git checkout master
+  120  get merge history 
+  121  git merge history 
+  122  git status
+  123  cat README.md
+  124  nano README.md
+  125  git add README.md
+  126  git status
+  127  git commit
+  128  git status
+  129  git log
+  130  git checkout dae28b45963c9e773b4a665cb8be11c17ef96617
+  131  cat README.md
+  132  git checkout master
+  133  git checkout 89b7f47dab0cf835be396d7ccdddcdcaba2d2728
+  134  cat README.md
+  135  git checkout master
+  136  git log
+  137  git checkout master
+  138  git log --oneline
+  139  git revert -m 1[89b7f47]
+  140  git merge --abort
+  141  git revert HEAD
+  142  git revert -m 1 89b7f47dab0cf835be396d7ccdddcdcaba2d2728
+  143  git revert -m 1 dae28b45963c9e773b4a665cb8be11c17ef96617
+  144  git checkout main
+  145  git checkout master
+  146  nano README.md
+  147  git add README.md 
+  148  git commit -m "merged and resolved the conflict in README.md"
+  149  git revert --continue
+  150  git reset --hard 89b7f47
+  151  git status
+  152  git log
+  153  git revert -m 1 89b7f47dab0cf835be396d7ccdddcdcaba2d2728
+  154  git log
+  155  cd master
+  156  git branch -a
+  157  git branch -d history
+  158  git branch -d milkshake-flavours
+  159  git branch -D milkshake-flavours
+  160  git branch -d master
+  161  cd /
+  162  cd ~
+  163  pwd
+  164  git branch -d master
+  165  cd git-basic-exercises
+  166  ls -a 
+  167  git status
+  168  cd ~
+  169  rmdir git-basic-exercises
+  170  cd git-basic-exercises
+  171  branch
+  172  git branch
+  173  branch -d master
+  174  git branch -d master
+  175  cd ~
+  176  git branch -d master
+  177  cd git-basic-exercises
+  178  rmdir master
+  179  branch
+  180  git branch
+  181  ls -a 
+  182  c ~
+  183  cd ~
+  184  rm -rf git-basic-exercises
+  185  cd git-basic-exercises
+  186  ls -a
+  187  git status
+  188  history
+  189  ls
+  190  ls -a 
+  191  git branch
+  192  clc
+  193  clear
+  194  mkdir git-basic-exercises
+  195  cd git-basic-exercises
+  196  ls -a 
+  197  git init
+  198  ls -a 
+  199  touch README.md
+  200  ls -a 
+  201  git status 
+  202  git log
+  203  git add README.md
+  204  git status 
+  205  git commit -m "initial commit"
+  206  git log
+  207  nano README.md
+  208  cat README.md 
+  209  git stats
+  210  git status 
+  211  git commit -m "second commit"
+  212  git add README.md
+  213  git commit -m "second commit"
+  214  nano README.md 
+  215  git add README.md 
+  216  git commit -m "third commit" 
+  217  git log
+  218  git checkout e5f453c3814d73f33d8b7a3e608bd32a2aed4014
+  219  cat README.md 
+  220  git checkout master 
+  221  cat README.md 
+  222  git branch 
+  223  git branch milkshake-flavours
+  224  git branch 
+  225  git checkout milkshake-flavours
+  226  git branch
+  227  nano milkshakes.md
+  228  git status
+  229  git add milkshakes.md 
+  230  git commit -m "added initial flavours"
+  231  git log 
+  232  git checkout master 
+  233  git log 
+  234  git branch history 
+  235  git checkout history 
+  236  git log 
+  237  git branch
+  238  history > history.txt
